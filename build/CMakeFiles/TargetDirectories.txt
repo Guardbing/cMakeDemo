@@ -1,0 +1,2 @@
+D:/VsCode/cMakeDemo/build/CMakeFiles/edit_cache.dir
+D:/VsCode/cMakeDemo/build/CMakeFiles/rebuild_cache.dir
